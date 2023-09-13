@@ -7,7 +7,6 @@ ATO: https://www.ato.gov.au/About-ATO/Research-and-statistics/In-detail/Taxation
 
 ## Repository Structure
 * code: Contains all the Jupyter notebooks, scripts, and source code.
-* data: Contains raw and processed data files.
 * figures: maps with clustering results.
 
 ## Workflow
